@@ -14,3 +14,6 @@ composable SDL files
 ### Example 3
 
 An example of utilizing Rev's builtin system call support to execute a pthreads application
+
+### Extension
+Example header file for adding an extension to Rev
